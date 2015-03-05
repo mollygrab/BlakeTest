@@ -1,0 +1,36 @@
+body {
+	font-size: 100%
+}
+#mainColumn {
+	margin: 0 auto;
+	width: 90%;
+}
+nav {
+	width: 20%;
+	float: left;
+	padding: 0 .25em;
+}
+nav ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+#content {
+	float: left;
+	width: 75%;
+	padding: 0 1em;
+}
+#content figure {
+	float: right;
+	margin: 0 1em;
+}
+p {
+	margin: 0;
+	margin-bottom: 1em;
+}
+
+h2 {
+	margin: 0;
+	margin-bottom: 1em;
+}
